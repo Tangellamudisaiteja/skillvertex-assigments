@@ -1,0 +1,15 @@
+{
+  "bank_name": "My Bank",
+  "accounts": [
+    {
+      "account_number": "90001",
+      "account_holder": "Sai Teja",
+      "balance": 6000.0
+    },
+    {
+      "account_number": "90012",
+      "account_holder": "Srikanth",
+      "balance": 300.0
+    }
+  ]
+}

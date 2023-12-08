@@ -1,0 +1,4 @@
+Numbers: [23, 43, 56, 40, 45, 60]
+Maximum: 60
+Minimum: 23
+Sum: 267

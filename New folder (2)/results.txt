@@ -1,0 +1,4 @@
+Numbers: [35, 65, 65, 78, 30, 43, 67]
+Maximum: 78
+Minimum: 30
+Sum: 383
